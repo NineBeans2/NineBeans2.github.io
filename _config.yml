@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr."
+title                    : "Xiankai Pang's personal webpage"
 title_separator          : " "
 name                     : &name "Xiankai Pang"
 description              : &description "Researcher in quantum gravity, cosmology and gravitational lensing"
@@ -41,7 +41,7 @@ author:
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
-  InspireHep       : "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Xiankai.Pang.1&ui-citation-summary=true"
+  inspirehep       : "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Xiankai.Pang.1&ui-citation-summary=true"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -53,7 +53,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
