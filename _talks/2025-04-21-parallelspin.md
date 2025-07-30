@@ -1,0 +1,11 @@
+---
+title: "Spin precession in spherically symmetric spacetime"
+collection: talks
+type: "Talk"
+permalink: /talks/2025-04-21-parallelspin
+venue: "2025 Annual Academic Meeting of the Gravitational and Relativistic Astrophysics Section of the Chinese Physical Society"
+date: 2025-04-21
+location: "Kunming, China"
+---
+
+This is a description of your talk, which is a markdown file that can be all markdown-ified like any other post. Yay markdown!
