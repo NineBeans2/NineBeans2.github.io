@@ -1,7 +1,7 @@
 ---
 title: "Late Time Acceleration of the Universe from Quantum Gravity"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /publication/2022-03-05-late-time-acceleration.md
 excerpt: 'We show that the accelerating expansion phase of the universe can emerge from the group field theory formalism, where the cosmological evolution can be extracted from condensate states using mean field approximation.'
 date: 2022-03-05
