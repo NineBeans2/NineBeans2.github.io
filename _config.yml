@@ -22,7 +22,7 @@ repository               : "NineBeans2/NineBeans2.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xiankai Pang"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in quantum gravity, cosmology and gravitational lensing"
