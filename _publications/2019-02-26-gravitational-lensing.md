@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2019-02-26-gravitational-lensing.md
 excerpt: &#39;In this work we study the deflection angle  and gravitational lensing of both lightlike and timelike neutral rays in Reissner–Nordström (RN) black hole spacetimes. The exact deflection angle is found as an elliptical function of the impact parameter $b$ and velocity  of the ray, and the charge Q of the spacetime. &#39;
-date: 2019-02-16
+date: 2019-02-26
 venue: &#39;Classical and Quantum Gravity&#39;</p>
 
 <h2>paperurl: &#39;http://ninebeans2.github.io/files/1806.04719v2.pdf&#39;
