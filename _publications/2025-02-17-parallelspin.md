@@ -2,7 +2,7 @@
 title: "The precession of particle spin in spherical symmetric spacetimes"
 collection: publications
 category: manuscripts
-permalink: /publication/parallelspin
+permalink: /publication/2025-02-17-parallelspin
 excerpt: 'In this work, we will explore the precession of particle spins in spherical spacetimes.'
 date: 2025-02-17
 venue: 'The European Physical Journal C'
