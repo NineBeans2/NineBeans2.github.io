@@ -23,6 +23,10 @@ jobs:
         pip install jupyter pandas requests beautifulsoup4 geopy  # Add other dependencies as needed
         pip install getorg --upgrade
 
+    - name: Pull changes
+      run: |
+        git pull
+
     - name: Run Jupyter Notebook
       run: |
         jupyter nbconvert --to notebook --execute talkmap.ipynb --output talkmap_out.ipynb
