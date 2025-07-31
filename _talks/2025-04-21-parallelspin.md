@@ -3,7 +3,7 @@ title: "Spin precession in spherically symmetric spacetimes"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-04-21-parallelspin
-venue: "2025 Annual Academic Meeting of the Gravitational and Relativistic Astrophysics Section of the Chinese Physical Society"
+venue: "Annual Academic Meeting of the Gravitational and Relativistic Astrophysics Section of the Chinese Physical Society in 2025"
 date: 2025-04-21
 location: "Kunming, China"
 ---
