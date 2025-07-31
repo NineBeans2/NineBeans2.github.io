@@ -8,7 +8,7 @@ date:  2025-07-22
 venue: 'Class. Quant. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Pang2025jtk.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2025jtk.bib'
-citation: 'X. Pang and D. Oriti, Class. Quant. Grav. **42**, 155003 (2025).'
+citation: 'X. Pang and D. Oriti, Class. Quant. Grav. 42, 155003 (2025).'
 
 ---  
 

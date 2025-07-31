@@ -2,13 +2,13 @@
 title: "Gravitational lensing of massive particles in Reissner–Nordström black hole spacetime"
 collection: publications
 category: manuscripts
-permalink: /publication/2019-01-01-Gravitational lensing of massive particles in Reissner–Nordström black hole spacetime
+permalink: /publication/2019-02-26-Gravitational lensing of massive particles in Reissner–Nordström black hole spacetime
 excerpt: ''
-date:  2019-01-01
+date:  2019-02-26
 venue: 'Class. Quant. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Pang2018jpm.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2018jpm.bib'
-citation: 'X. Pang and J. Jia, Class. Quant. Grav. **36**, 065012 (2019).'
+citation: 'X. Pang and J. Jia, Class. Quant. Grav. 36, 065012 (2019).'
 
 ---  
 

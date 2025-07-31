@@ -8,7 +8,7 @@ date:  2021-12-20
 venue: 'JCAP'
 paperurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.bib'
-citation: 'D. Oriti and X. Pang, JCAP **12**, 040 (2021).'
+citation: 'D. Oriti and X. Pang, JCAP 12, 040 (2021).'
 
 ---  
 
