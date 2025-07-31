@@ -37,7 +37,7 @@
         <!-- <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li> -->
         <!-- <li><a href="mailto:{{ author.email }}"><img src="{{ author.email }}" alt="{{ author.email }}"  fetchpriority="high" /></a></li> -->
         <!-- <img src="{{ author.email }}" alt="{{ author.email }}"  fetchpriority="high" /> -->
-        <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><img src="{{ author.email | prepend: "/images/" | prepend: base_path }}" alt="Email" height="15" width="90" fetchpriority="high"  />
+        <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i><img src="{{ author.email | prepend: "/images/" | prepend: base_path }}" height="10" width="60" alt="Email" fetchpriority="high"  />
 		
       {% endif %}
 
