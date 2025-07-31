@@ -12,5 +12,5 @@ citation: 'X. Pang, Universe **8**, 163 (2022).'
 
 ---  
 
-We show that the accelerating expansion phase of the universe can emerge from the group field theory formalism, a candidate theory of quantum gravity. The cosmological evolution can be extracted from condensate states using the mean field approximation, in a form of modified FLRW equations. By introducing an effective equation of state w, we can reveal the relevant features of the evolution and show that, with the proper choice of the parameters, $w$ will approach $-1$, leading to an accelerating phase dominated by the cosmological constant effectively.
+We show that the accelerating expansion phase of the universe can emerge from the group field theory formalism, a candidate theory of quantum gravity. The cosmological evolution can be extracted from condensate states using the mean field approximation, in a form of modified FLRW equations. By introducing an effective equation of state $w$, we can reveal the relevant features of the evolution and show that, with the proper choice of the parameters, $w$ will approach $-1$ , leading to an accelerating phase dominated by the cosmological constant effectively.
 
