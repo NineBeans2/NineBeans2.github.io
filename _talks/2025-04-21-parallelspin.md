@@ -1,5 +1,5 @@
 ---
-title: "Spin precession in spherically symmetric spacetime"
+title: "Spin precession in spherically symmetric spacetimes"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-04-21-parallelspin
