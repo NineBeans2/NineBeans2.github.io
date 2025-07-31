@@ -27,6 +27,10 @@ author_profile: true
 	    {% break %}
 	  {% endif %}
 	{% endfor %}
+	{% unless title_shown %}
+	  {% continue %}
+	{% endunless %}
+
 	<ol>{% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
