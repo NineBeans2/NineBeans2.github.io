@@ -1,20 +1,20 @@
 name: Scrape Talk Locations
 
-#on:
-#  push:
-#    paths:
-#      - 'talks/**'
-#      - 'talkmap.ipynb'
 on:
-  workflow_dispatch:
-        inputs:
-          deploy_target:
-            description: 'Deployment target (e.g., staging, production)'
-            required: true
-            default: 'staging'
-          reason:
-            description: 'Reason for manual deployment'
-            required: false
+  push:
+    paths:
+      - 'talks/**'
+      - 'talkmap.ipynb'
+#on:
+#  workflow_dispatch:
+#        inputs:
+#          deploy_target:
+#            description: 'Deployment target (e.g., staging, production)'
+#            required: true
+#            default: 'staging'
+#          reason:
+#            description: 'Reason for manual deployment'
+#            required: false
 
 jobs:
   build:
