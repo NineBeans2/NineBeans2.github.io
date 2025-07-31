@@ -15,15 +15,13 @@ author_profile: true
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
-    {% i=1 %}
     {% for post in site.publications reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h2>{{i category[1].title }}</h2><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
-		{% i++ %}
       {% endunless %}
       {% include archive-single.html %}
     {% endfor %}
