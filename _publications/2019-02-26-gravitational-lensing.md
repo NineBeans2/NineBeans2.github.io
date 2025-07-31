@@ -3,7 +3,7 @@ title: "Gravitational lensing of massive particles in Reissner–Nordstr\"om bla
 collection: publications
 category: manuscripts
 permalink: /publication/2019-02-26-gravitational-lensing
-excerpt: 'In this work we study the deflection angle  and gravitational lensing of both lightlike and timelike neutral rays in Reissner–Nordström (RN) black hole spacetimes. The exact deflection angle is found as an elliptical function of the impact parameter $b$ and velocity  of the ray, and the charge Q of the spacetime.'
+<!-- excerpt: 'In this work we study the deflection angle  and gravitational lensing of both lightlike and timelike neutral rays in Reissner–Nordström (RN) black hole spacetimes. The exact deflection angle is found as an elliptical function of the impact parameter $b$ and velocity  of the ray, and the charge Q of the spacetime.' -->
 date: 2019-02-26
 venue: 'Classical and Quantum Gravity'
 paperurl: 'http://ninebeans2.github.io/files/1806.04719v2.pdf'
