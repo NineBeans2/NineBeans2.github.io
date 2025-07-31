@@ -7,6 +7,7 @@ excerpt: ''
 date: 2022-03-05
 venue: 'Universe'
 paperurl: 'http://ninebeans.github.io/files/universe-08-00163-v2.pdf'
+bibtexurl: 'http://ninebeans2.github.io/files/universe-08-00163-v2.bib'
 citation: 'X. Pang, Universe 8, 163 (2022)'
 ---
 
