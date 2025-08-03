@@ -1,0 +1,17 @@
+---  
+title: "Existence and stability of circular orbits in static and axisymmetric spacetimes"
+collection: publications
+category: manuscripts
+permalink: /publication/2018-03-19-Existence and stability of circular orbits in static and axisymmetric spacetimes
+excerpt: ''
+date:  2018-03-19
+venue: 'Gen. Rel. Grav.'
+paperurl: 'http://ninebeans2.github.io/files/Jia2017jff.pdf'
+bibtexurl: 'http://ninebeans2.github.io/files/Jia2017jff.bib'
+doi: '10.1007/s10714-018-2364-6'
+citation: 'J. Jia, X. Pang, and N. Yang, Gen. Rel. Grav. 50, 41 (2018).'
+
+---  
+
+The existence and stability of timelike and null circular orbits (COs) in the equatorial plane of general static and axisymmetric (SAS) spacetime are investigated in this work. Using the fixed point approach, we first obtained a necessary and sufficient condition for the non-existence of timelike COs. It is then proven that there will always exist timelike COs at large $\rho$ in an asymptotically flat SAS spacetime with a positive ADM mass and moreover, these timelike COs are stable. Some other sufficient conditions on the stability of timelike COs are also solved. We then found the necessary and sufficient condition on the existence of null COs. It is generally shown that the existence of timelike COs in SAS spacetime does not imply the existence of null COs, and vice-versa, regardless whether the spacetime is asymptotically flat or the ADM mass is positive or not. These results are then used to show the existence of timelike COs and their stability in an SAS Einstein-Yang-Mills-Dilaton spacetimes whose metric is not completely known. We also used the theorems to deduce the existence of timelike and null COs in some known SAS spacetimes.
+
