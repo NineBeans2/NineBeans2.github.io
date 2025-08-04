@@ -7,7 +7,7 @@ excerpt: ''
 date:  2021-12-20
 venue: 'JCAP'
 paperurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.pdf'
-bibtexurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.bib'
+bibtexurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.txt'
 doi: '10.1088/1475-7516/2021/12/040'
 citation: 'D. Oriti and X. Pang, JCAP 12, 040 (2021).'
 

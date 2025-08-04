@@ -7,7 +7,7 @@ excerpt: ''
 date:  2025-02-17
 venue: 'The European Physical Journal C'
 paperurl: 'http://ninebeans2.github.io/files/Pang2024tco.pdf'
-bibtexurl: 'http://ninebeans2.github.io/files/Pang2024tco.bib'
+bibtexurl: 'http://ninebeans2.github.io/files/Pang2024tco.txt'
 doi: '10.1140/epjc/s10052-025-13894-8'
 citation: 'X. Pang, Q. Jiang, Y. Xiang, and G.-M. Deng, Eur. Phys. J. C 85, 193 (2025).'
 

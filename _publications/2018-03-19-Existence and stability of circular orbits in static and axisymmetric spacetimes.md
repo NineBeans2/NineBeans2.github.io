@@ -7,7 +7,7 @@ excerpt: ''
 date:  2018-03-19
 venue: 'Gen. Rel. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Jia2017jff.pdf'
-bibtexurl: 'http://ninebeans2.github.io/files/Jia2017jff.bib'
+bibtexurl: 'http://ninebeans2.github.io/files/Jia2017jff.txt'
 doi: '10.1007/s10714-018-2364-6'
 citation: 'J. Jia, X. Pang, and N. Yang, Gen. Rel. Grav. 50, 41 (2018).'
 
