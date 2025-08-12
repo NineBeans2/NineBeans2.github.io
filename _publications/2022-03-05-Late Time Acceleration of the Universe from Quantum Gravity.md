@@ -9,7 +9,7 @@ venue: 'Universe'
 paperurl: 'http://ninebeans2.github.io/files/Pang2022asf.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2022asf.txt'
 doi: '10.3390/universe8030163'
-arxiv: ''
+arxiv: 
 citation: 'X. Pang, Universe 8, 163 (2022).'
 
 ---  
