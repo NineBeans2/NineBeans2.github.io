@@ -9,6 +9,11 @@ venue: 'Class. Quant. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Pang2025jtk.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2025jtk.txt'
 doi: '10.1088/1361-6382/adecdb'
+3 citations (INSPIRE 2025/7/31v)
+3 citations w/o self (INSPIRE 2025/7/31)
+Publisher: IOP Publishing
+Citation Key: Pang:2025jtk
+arxiv:2502.12419 
 citation: 'X. Pang and D. Oriti, Class. Quant. Grav. 42, 155003 (2025).'
 
 ---  

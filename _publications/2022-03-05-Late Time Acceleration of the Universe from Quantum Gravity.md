@@ -9,6 +9,11 @@ venue: 'Universe'
 paperurl: 'http://ninebeans2.github.io/files/Pang2022asf.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2022asf.txt'
 doi: '10.3390/universe8030163'
+1 citations (INSPIRE 2025/2/26)
+1 citations w/o self (INSPIRE 2025/2/26)
+Number: 3
+Publisher: Multidisciplinary Digital Publishing Institute
+Citation Key: Pang:2022asf
 citation: 'X. Pang, Universe 8, 163 (2022).'
 
 ---  

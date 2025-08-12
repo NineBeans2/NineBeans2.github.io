@@ -9,6 +9,11 @@ venue: 'Phys. Rev. D'
 paperurl: 'http://ninebeans2.github.io/files/Nador2023inw.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Nador2023inw.txt'
 doi: '10.1103/PhysRevD.109.066008'
+3 citations (INSPIRE 2025/2/26)
+2 citations w/o self (INSPIRE 2025/2/26)
+Publisher: American Physical Society
+arxiv:2307.14211 
+Citation Key: Nador:2023inw
 citation: 'V. Nador, D. Oriti, X. Pang, A. Tanasa, and Y.-L. Wang, Phys. Rev. D 109, 066008 (2024).'
 
 ---  

@@ -9,6 +9,11 @@ venue: 'JCAP'
 paperurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Oriti2021rvm.txt'
 doi: '10.1088/1475-7516/2021/12/040'
+26 citations (INSPIRE 2025/7/31)
+14 citations w/o self (INSPIRE 2025/7/31)
+Publisher: IOP Publishing
+arxiv:2105.03751 
+Citation Key: Oriti:2021rvm
 citation: 'D. Oriti and X. Pang, JCAP 12, 040 (2021).'
 
 ---  

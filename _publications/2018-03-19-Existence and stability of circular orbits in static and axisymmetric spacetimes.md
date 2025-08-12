@@ -9,6 +9,10 @@ venue: 'Gen. Rel. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Jia2017jff.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Jia2017jff.txt'
 doi: '10.1007/s10714-018-2364-6'
+6 citations (INSPIRE 2025/7/31)
+5 citations w/o self (INSPIRE 2025/7/31)
+arxiv:1704.01689 
+Citation Key: Jia:2017jff
 citation: 'J. Jia, X. Pang, and N. Yang, Gen. Rel. Grav. 50, 41 (2018).'
 
 ---  
