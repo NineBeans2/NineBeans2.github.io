@@ -47,7 +47,7 @@ layout: default
       <section class="page__content" itemprop="text">
         {{ content }}
 
-		{% if post.citation and post.arxiv and post.paperurl and post.bibtexurl and post.doi %}
+		{% if post.citation and post.paperurl and post.bibtexurl and post.doi %}
 		  <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ post.doi | prepend: "https://doi.org/" }}">DOI</a> | <a href="{{ post.arxiv | prepend: "https://arxiv.org/abs/" }}">arXiv</a> | <a href="{{ post.paperurl }}">PDF</a> | <a href="{{ post.bibtexurl }}">Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.bibtexurl and page.doi %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.arxiv | prepend: "https://arxiv.org/abs/" }}">arXiv</a> | <a href="{{ page.paperurl }}">PDF</a> | <a href="{{ page.bibtexurl }}">Bibtex</a></p>
