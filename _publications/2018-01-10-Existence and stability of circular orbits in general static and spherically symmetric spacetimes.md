@@ -9,7 +9,7 @@ venue: 'Gen. Rel. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Jia2017nen.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Jia2017nen.txt'
 doi: '10.1007/s10714-017-2337-1'
-arxiv: 1702.05889 
+arxiv: '1702.05889'
 citation: 'J. Jia, J. Liu, X. Liu, Z. Mo, X. Pang, Y. Wang, and N. Yang, Gen. Rel. Grav. 50, 17 (2018).'
 
 ---  
