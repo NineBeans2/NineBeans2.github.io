@@ -50,7 +50,7 @@ layout: default
 		{% if post.citation and post.arxiv and post.paperurl and post.bibtexurl and post.doi %}
 		  <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ post.doi | prepend: "https://doi.org/" }}">DOI</a> | <a href="{{ post.arxiv | prepend: "https://arxiv.org/abs/" }}">arXiv</a> | <a href="{{ post.paperurl }}">PDF</a> | <a href="{{ post.bibtexurl }}">Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.bibtexurl and page.doi %}
-          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.doi | prepend: "https://doi.org/" }}">DOI</a> | <a href="{{ page.paperurl }}">PDF</a> | <a href="{{ page.bibtexurl }}">Bibtex</a></p>
+          <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.arxiv | prepend: "https://arxiv.org/abs/" }}">arXiv</a> | <a href="{{ page.paperurl }}">PDF</a> | <a href="{{ page.bibtexurl }}">Bibtex</a></p>
         {% endif %}
 
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
