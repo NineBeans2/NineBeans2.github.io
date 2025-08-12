@@ -51,8 +51,8 @@ layout: default
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">PDF</a> | <a href="{{ page.slidesurl }}">Slides</a> | <a href="{{ page.bibtexurl }}">Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.slidesurl %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.paperurl }}">PDF</a> | <a href="{{ page.slidesurl }}">Slides</a></p>
-		{% elsif post.citation and post.paperurl and post.bibtexurl and post.doi %}
-		  <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /> <p>{{ post.citation }}<br /><a href="{{ post.doi | prepend: "https://doi.org/" }}">DOI</a> | <a href="{{ post.arxiv | prepend: "https://arxiv.org/abs/" }}">arXiv</a> | <a href="{{ post.paperurl }}">PDF</a> | <a href="{{ post.bibtexurl }}">Bibtex</a></p>
+		{% elsif post.citation and post.paperurl and post.bibtexurl and post.doi and post.arxiv %}
+		  <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ post.doi | prepend: "https://doi.org/" }}">DOI</a> | <a href="{{ post.arxiv | prepend: "https://arxiv.org/abs/" }}">arXiv</a> | <a href="{{ post.paperurl }}">PDF</a> | <a href="{{ post.bibtexurl }}">Bibtex</a></p>
         {% elsif page.citation and page.paperurl and page.bibtexurl and page.doi %}
           <p style="font-size: smaller">Recommended citation: {{ page.citation }}<br /><a href="{{ page.doi | prepend: "https://doi.org/" }}">DOI</a> | <a href="{{ page.paperurl }}">PDF</a> | <a href="{{ page.bibtexurl }}">Bibtex</a></p>
 		{% elsif page.citation and page.paperurl and page.bibtexurl %}
