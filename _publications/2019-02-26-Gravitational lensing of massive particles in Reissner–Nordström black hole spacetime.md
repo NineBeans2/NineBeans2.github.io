@@ -9,11 +9,7 @@ venue: 'Class. Quant. Grav.'
 paperurl: 'http://ninebeans2.github.io/files/Pang2018jpm.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2018jpm.txt'
 doi: '10.1088/1361-6382/ab0512'
-79 citations (INSPIRE 2025/7/30)
-56 citations w/o self (INSPIRE 2025/7/30)
-Publisher: IOP Publishing
 arxiv:1806.04719 
-Citation Key: Pang:2018jpm
 citation: 'X. Pang and J. Jia, Class. Quant. Grav. 36, 065012 (2019).'
 
 ---  
