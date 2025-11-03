@@ -15,7 +15,7 @@ var addressPoints = [
     14.5928676
   ],
   [
-    "Fermionic Love number of Reissner-Nordstr\u00f6m black holes<br />2025 Youth Seminar in Gravity and Cosmology by Jiangxi Normal University; Nanchang, China",
+    "Fermionic Love number of Reissner-Nordstr\u00f6m black holes<br />2025 Youth Seminar of Gravity and Cosmology by Jiangxi Normal University; Nanchang, China",
     28.6472124,
     116.0348483
   ],
