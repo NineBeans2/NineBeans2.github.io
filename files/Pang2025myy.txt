@@ -1,0 +1,17 @@
+@article{Pang:2025myy,
+  title = {Fermionic {{Love}} Number of {{Reissner-Nordstr\"om}} Black Holes},
+  author = {Pang, Xiankai and Tian, Yu and Zhang, Hongbao and Jiang, Qingquan},
+  year = 2025,
+  month = oct,
+  journal = {Physics Letters B},
+  volume = {878},
+  eprint = {2510.10036},
+  primaryclass = {gr-qc},
+  pages = {140555},
+  issn = {0370-2693},
+  doi = {10.1016/j.physletb.2026.140555},
+  urldate = {2026-05-24},
+  abstract = {The tidal deformation of compact objects, characterised by their Love numbers, provides insights into the internal structure of neutron stars and black holes. While static bosonic tidal Love numbers vanish for black holes in general relativity, it has been recently revealed that static fermionic tidal perturbations can induce non-zero Love numbers for Kerr black holes. In this paper, we investigate the response of the Reissner-Nordstr\"om black hole to the fermionic Weyl field. As a result, we find that the corresponding fermionic tidal Love numbers are also non-vanishing for the Reissner-Nordstr\"om black holes except for the extremal ones, which highlights the universal distinct behavior of the static fermionic tidal Love numbers compared to the bosonic counterparts.},
+  archiveprefix = {arXiv},
+  keywords = {Fermionic Love number,General Relativity and Quantum Cosmology,High Energy Physics - Theory,Mathematical Physics,Mathematics - Mathematical Physics,Reissner-Nordstrom spacetime,Tidal deformation}
+}
