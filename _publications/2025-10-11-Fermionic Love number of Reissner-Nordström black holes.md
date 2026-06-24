@@ -10,7 +10,7 @@ paperurl: 'http://ninebeans2.github.io/files/Pang2025myy.pdf'
 bibtexurl: 'http://ninebeans2.github.io/files/Pang2025myy.txt'
 doi: '10.1016/j.physletb.2026.140555'
 arxiv: 2510.10036 
-citation: 'X. Pang, Y. Tian, H. Zhang, and Q. Jiang, Physics Letters B 878, 140555 (2025).' 
+citation: 'X. Pang, Y. Tian, H. Zhang, and Q. Jiang, Phys. Lett. B 878 (2026) 140555.' 
 
 ---  
 
