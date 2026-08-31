@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome! I’m a theoretical physicist and lecturer at the School of Physics and Astronomy, China West Normal University. My research focuses on **quantum gravity and early universe cosmology**, particularly through the lens of **group field theory (GFT)**. I completed my PhD at the Arnold Sommerfeld Center for Theoretical Physics, Ludwig-Maximilians-Universität München, under the supervision of Prof. Daniele Oriti.
 
-My recent work explores gravitational alternatives to inflation and investigates how quantum gravity effects could explain late-time cosmic acceleration. I am also interested in **gravitational lensing** and **spin dynamics in curved spacetimes**.
+My recent work explores gravitational alternatives to inflation and investigates how quantum gravity effects could explain late-time cosmic acceleration. I am also interested in **gravitational lensing**, **spin dynamics** and **Love numbers** in curved spacetimes.
 
 Feel free to explore my research, publications, and academic journey.
 
